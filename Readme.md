@@ -1,4 +1,4 @@
-👋 Hi, I'm <h3>Kusumakar Shrestha</h3>
+<h3>👋 Hi, I'm Kusumakar Shrestha</h3>
 
 🌍 Toronto, ON | 🌐 kusumakar.com.np | 📎 LinkedIn | 💻 GitHub
 📧 Email: kushrestha23@gmail.com | 📱 Mobile: 647-507-7360

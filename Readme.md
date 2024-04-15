@@ -15,9 +15,9 @@
 - Tools: JIRA, Click-Up, Tableau, Postman, Appium, Insomnia, Algolia, KNIME
 
 📚 Education:
-- 🎓 Graduate Certificate in Project Management - Information Technology, Seneca College, Toronto, ON, May 2022 - December 2022
-- 🎓 Graduate Certificate in Business Analytics, Seneca College, Toronto, ON, May 2021 - December 2021
-- 🎓 Bachelor's Degree in Information Management, Tribhuvan University, Kathmandu, Nepal, December 2017
+🎓 Graduate Certificate in Project Management - Information Technology, Seneca College, Toronto, ON, May 2022 - December 2022
+🎓 Graduate Certificate in Business Analytics, Seneca College, Toronto, ON, May 2021 - December 2021
+🎓 Bachelor's Degree in Information Management, Tribhuvan University, Kathmandu, Nepal, December 2017
 
 📜 Certifications:
 - Python for Automation
